@@ -1,0 +1,4 @@
+[submodule "repoC"]
+	path = repoC
+	url = git@github.com:nicklinnell/repoC.git
+	branch = master
